@@ -14,15 +14,18 @@
 
 
 ## 🐥 UI Path - Main Flow
----
+
+
 ### 🐣 Flow Chart  
 
 ![image](https://user-images.githubusercontent.com/41108401/120099808-8a921d80-c178-11eb-98cc-a5bde4d58b2a.png)
 
+<br/>
 
 ### 🐣 Flow Description  
 
 아래 표의 Flow 대로 구현 함.
+
 <table>
     <tr>
         <th>Main</th>
@@ -98,4 +101,9 @@
         <td> 버튼 클릭</td>
     </tr>        
 <table/>
+    
+<br/>
+    
+### 🐣 시연 영상
+https://user-images.githubusercontent.com/41108401/120104588-19f6fb00-c190-11eb-80f8-21810b4d5040.mp4   
 
